@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967180854501",
+    "project_id": "lansio-c0991",
+    "storage_bucket": "lansio-c0991.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967180854501:android:e0f72846ce9642023a200c",
+        "android_client_info": {
+          "package_name": "com.example.lansio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcsdGEVr2c_n79XN9zcrW96RyQ3OINvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

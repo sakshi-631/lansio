@@ -1,0 +1,99 @@
+# name: lansio
+# description: "A new Flutter project."
+# publish_to: 'none'
+# version: 1.0.0+1
+
+# environment:
+#   sdk: ">=3.8.0 <4.0.0"
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#   characters: ^1.4.0
+#   material_color_utilities: ^0.11.1
+#   cupertino_icons: ^1.0.8
+#   firebase_auth: ^6.1.0
+#   firebase_core: ^4.1.1
+#   shared_preferences: ^2.5.3
+#   google_fonts: ^6.3.2
+#   image_picker: ^1.2.0
+#   introduction_screen: ^4.0.0
+#   font_awesome_flutter: ^10.9.1
+#   intl: ^0.20.2
+#   url_launcher: ^6.3.2
+#   permission_handler: ^12.0.1
+#   cloud_firestore: ^6.0.3
+#   sqflite: ^2.4.2
+#   google_generative_ai: ^0.4.7
+
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+#   flutter_lints: ^6.0.0
+
+# flutter:
+#   uses-material-design: true
+#   assets:
+#     - assets/
+
+
+
+name: lansio
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  http: ^1.2.0
+  flutter:
+    sdk: flutter
+
+  # UI & Animation
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+  flutter_animate: ^4.5.0      # 🔥 For entry animations (letters flying in)
+  animated_text_kit: ^4.2.2    # 🌀 Optional: animated text styles
+  lottie: ^3.1.0               # ✨ Optional: if you use Lottie splash animations later
+
+  # Firebase & Storage
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+  cloud_firestore: ^6.0.3
+
+  # Local Storage & Utilities
+  shared_preferences: ^2.5.3
+  sqflite: ^2.4.2
+  permission_handler: ^12.0.1
+  image_picker: ^1.2.0
+  intl: ^0.20.2
+  url_launcher: ^6.3.2
+  file_picker: ^8.0.0
+
+  # Fonts & Icons
+  font_awesome_flutter: ^10.9.1
+
+  # AI / Gemini integration
+  google_generative_ai: ^0.4.7
+
+  # Miscellaneousgit merge --abort
+  introduction_screen: ^4.0.0
+  characters: ^1.4.0
+  material_color_utilities: ^0.11.1
+  firebase_storage: ^13.0.3
+  video_player: ^2.10.0
+  async: ^2.13.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
