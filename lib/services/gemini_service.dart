@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiService {
   final String apiKey =
-      "AIzaSyBAgyAu3ogh9HfeKwr_Jaz6FL1FUAxSwvY"; // Replace with your Gemini API key
+      ""; // Replace with your Gemini API key
 
   // ✅ Text generation model
   final String textUrl =
