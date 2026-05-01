@@ -1,16 +1,27 @@
-# lansio
+# Lansio 🌿
 
-A new Flutter project.
+A cross-platform mobile and web app that connects users with landscaping professionals for service booking and scheduling.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+* Service booking & scheduling
+* Worker profile management
+* User authentication
+* Real-time database & notifications
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter (Dart), Firebase, GitLab
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Run Locally
+
+```bash
+git clone https://gitlab.com/nexthorizon1/lansio.git
+cd lansio
+flutter pub get
+flutter run
+```
+
+## 📱 Platforms
+
+Android, Web
