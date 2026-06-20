@@ -1,0 +1,41 @@
+name: instagram_feed
+description: "Instagram Feed Clone Flutter Project"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  provider: ^6.0.5
+
+  # Image caching (important for performance)
+  cached_network_image: ^3.3.1
+
+  # Shimmer loading effect
+  shimmer: ^3.0.0
+
+  # Image carousel for multiple post images
+  carousel_slider: ^4.2.1
+
+  # Pinch-to-zoom functionality
+  photo_view: ^0.14.0
+  smooth_page_indicator: ^2.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+
+flutter:
+  uses-material-design: true
